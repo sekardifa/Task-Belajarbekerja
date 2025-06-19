@@ -67,7 +67,7 @@ section h2 {
     justify-content: space-between;
 }
 .projects {
-    border: 1px solid #ddd;
+    border: 1px solid brown;
     padding: 20px;
     margin-bottom: 20px;
     width: 30%;
@@ -75,6 +75,15 @@ section h2 {
     min-width: 250px;
 }
 
+.btn {
+    color: brown;
+    text-decoration: none;
+}
+
+#contact .btn{
+    color: brown;
+    text-decoration: none;
+}
 footer {
     background-color: sandybrown;
     color: black;
